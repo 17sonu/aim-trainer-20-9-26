@@ -44,7 +44,7 @@ const EMPTY_STATS = {
 };
 
 const STORAGE_KEY = "aim-trainer-personal-bests";
-const API_BASE = import.meta.env.VITE_API_URL || "";
+const API_BASE = import.meta.env.VITE_API_URL || "https://server-pearl-eight-60.vercel.app";
 
 /* =========================================================
    LOCAL STORAGE
